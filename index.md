@@ -3,8 +3,6 @@ layout: soon
 permalink: /
 ---
 
-# Coming soon
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut purus.
-Some call to action.
+# Website under construction.
+Please contact us or visit our social media pages to know about our upcoming expeditions!
 
