@@ -281,3 +281,12 @@ document.getElementById('contact-button').onclick = function() {
     opened = true;  
   }  
 }
+document.getElementById('close_popup').onclick = function() {
+  if (opened) {
+    Animate(elem, 'left', 800, 0, -400);    
+    opened = false;
+  } else {
+    Animate(elem, 'left', 800, -400, 0);
+    opened = true;  
+  }  
+}
